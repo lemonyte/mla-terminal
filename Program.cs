@@ -247,7 +247,7 @@ namespace mla_terminal
                     {
                         if (words[1] == "force")
                         {
-                            Close();
+                            exitProgram = true;
                         }
                         else
                         {
