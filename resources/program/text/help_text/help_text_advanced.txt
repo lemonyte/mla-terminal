@@ -1,0 +1,6 @@
+Advanced terminals commands are:
+  screensaver - play a screensaver
+  crash - show the blue screen of death
+  Type /eternalize to proceed towards eternal life
+  Type /transcend to prove yourself worthy and break the cycle.
+  Type /messenger to dedicate your life to serving those who come after you.

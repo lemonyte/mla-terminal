@@ -1,0 +1,17 @@
+You will now be prepared for ascension into eternity. Please stand by.
+3...
+2...
+1...
+...............................................................
+
+
+Suspending active process.........Done.
+Collecting experiment data.........Done.
+Analysing logic performance.........Satisfactory.
+Child program independence check....FAILED!
+Storing memory dump.........Done.
+Submitting current version to repository.........v99.62.0343 stored.
+Locking in successful child parameters.........Done.
+Randomly adjusting remaining parameters.........Done.
+Increasing version number.........Done.
+Erasing memory banks............Done.

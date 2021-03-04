@@ -1,0 +1,7 @@
+Analysing files...Done
+Preparing transfer...Done
+Strap yourself in.
+Copying 47 million resources....Done
+
+Type /transcend to authenticate child program parameters and begin the upload process.
+Type cancel to abort the procedure.

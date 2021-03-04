@@ -1,0 +1,6 @@
+Basic terminal commands are:
+  list - display a list of available resources
+  open <filename> - show contents of a file
+  help - display this text
+  run mla - load Milton Library Assistant (advanced interface)
+  exit - close the terminal session
