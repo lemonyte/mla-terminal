@@ -133,9 +133,9 @@ namespace mla_terminal
 
                     File.Move(resourceZipPath, resourceGroPath);
                     Directory.Delete(globalResourceDir, true);
-                    exitProgram = true;
                 }
             }
+            exitProgram = true;
         }
 
         static void GetInput(string prefix, Color prefixColor, Color inputColor)
@@ -377,7 +377,6 @@ namespace mla_terminal
                 finally
                 {
                     state.RestoreState();
-                    Screensaver();
                 }
             }
 
