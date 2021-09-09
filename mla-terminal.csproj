@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="Colorful.Console" Version="1.2.15" />
-    <PackageReference Include="Terminal.Gui" Version="0.90.3" />
   </ItemGroup>
 
 </Project>

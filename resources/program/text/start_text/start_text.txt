@@ -1,8 +1,0 @@
-Loading library session... Done
-Mounting local disks...  [47 million] distributed resources found
-Connecting network drives..... Error: network inaccessible
-Loading Milton Library Assistant..... Error: MLA unresponsive
-Initiating command prompt... Done.
-
-
-Library archive session ready.

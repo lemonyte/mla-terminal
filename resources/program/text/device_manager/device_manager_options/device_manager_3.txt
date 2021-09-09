@@ -1,0 +1,5 @@
+
+Your software license has expired!
+The auxiliary stairway is in always-open mode now.
+
+Please renew your license to enable auxiliary stairway locking.

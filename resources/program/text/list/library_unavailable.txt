@@ -1,0 +1,5 @@
+
+Library archive is currently unavailable while system resources are redirected
+to handle incoming network messages.
+
+Use the access_comm_portal command to access network functions.

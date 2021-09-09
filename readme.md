@@ -1,17 +1,12 @@
 # MLA Terminal
-
 By [LemonPi314](https://github.com/LemonPi314)
 
 A recreation of the terminal interface from the video game The Talos Principle.
-
 ## Installation
-
 Download the project folder as a ZIP archive from this GitHub page and unzip the contents into any folder on your Windows PC.
-
 ## Usage
-
 ### Running The Program
-Open the project folder and double click the shortcut named "mla-terminal.exe".
+Open the project folder and double click the shortcut named `MLA Terminal`.
 ### Commands
 #### `help`
 Returns a list of basic commands.
@@ -32,31 +27,24 @@ Start the "Tower" ending sequence from the game.
 Start the "Gates of Eternity" ending sequence from the game.
 #### `/messenger`
 Start the "Messenger" ending sequence from the game.
-
-### Full command list:
-
-```bash
+### Full Command List
+```
 help
-list
-open
-run
-
-exit
-exit force
-
-admin
-device_manager
-access_comm_portal
+list <path>
+open <file>
+exit [force]
+run <program>
+    mla
 
 screensaver
 crash
+admin
+device_manager
+access_comm_portal
+debug <on | off>
 
 /eternalize
 /transcend
 /messenger
-
 /banish
-
-debug on
-debug off
 ```

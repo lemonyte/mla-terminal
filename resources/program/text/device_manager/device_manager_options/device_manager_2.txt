@@ -1,0 +1,4 @@
+You are currently on:
+  floor 1
+
+Current access parameters:

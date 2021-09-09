@@ -1,0 +1,5 @@
+
+Your software license has expired!
+Only basic safety functionality is available.
+
+Please renew your license to be able to set new floor locks.

@@ -1,0 +1,7 @@
+
+
+WARNING: Locking floors when operating from within the building may leave the
+operator stuck inside.
+Your technical support plan does not include assistance coverage for that event.
+
+Please type "YES I AM SURE" if you are sure you want to do that: 

@@ -1,0 +1,8 @@
+Loading library session... Done.
+Mounting local disks... [47 million] distributed resources found
+Connecting network drives...... Error: network inaccessible.
+
+Detecting auxiliary hardware... Found 1 external devices(s).
+Type device_manager to control external devices.
+
+Ready.

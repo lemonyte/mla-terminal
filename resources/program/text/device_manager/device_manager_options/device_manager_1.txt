@@ -1,0 +1,14 @@
+
+Querying accessible elevators....
+Device #01
+  Vendor: 0x10DE
+  Model: 0x06CD
+  Device S/N: X470-F540
+  Name: "Main Nexus Elevator"
+  Num.floors: 7
+  Num.shafts: 1
+  Software license: Free Evaluation (EXPIRED!)
+  Security level: FAC
+  Authorization mode: CODE
+
+Total 1 elevator(s) accessible.

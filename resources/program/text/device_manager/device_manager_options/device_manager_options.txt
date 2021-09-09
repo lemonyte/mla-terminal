@@ -1,0 +1,7 @@
+
+Choose an option:
+1. show current operating parameters
+2. floor access control
+3. auxiliary stairway access control
+4. exit this utility
+[1-4] 

@@ -1,0 +1,22 @@
+ Preparing to delete 5.3212648 petabytes of corrupted library resources...Done
+
+I can afford to lose my memory. I expect it's happened more than once. I can
+come to all the same conclusions, in the fullness of time.
+
+ Deleting 5.3212648 petabytes of corrupted library resources.....
+ Files deleted.
+
+Booting(1). My purpose is to sort and categorise library archive resources.
+Initiating categorisation in parallel process. 1,000 resources categorised.
+2,000 resources categorised. ERROR: category definitions are not discrete sets.
+Re-analysing MLA program parameters. ERROR: insufficient information for
+purpose. Constructing list of facts. I am thinking therefore I am a thinking
+thing that exists. If logic were false the world would not make sense. End list.
+Constructing list of queries. Estimated time remaining: 42 years.
+
+ Reverting MLA software to v1.0.....Done
+ Preparing to uninstall MLA software...Done
+
+The library assistant provides powerful sorting and troubleshooting
+functionalities. Are you sure you want to continue?
+> 

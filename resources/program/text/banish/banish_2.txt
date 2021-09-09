@@ -1,0 +1,4 @@
+ Uninstalling MLA software.....Done
+ MLA software has been completely removed from the system.
+ You can still access library resources via the library archive command prompt.
+> 
